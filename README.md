@@ -12,4 +12,4 @@ Este es un curso introductorio a procesamiento de datos geograficos
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/As08-16-2593.jpg" width="300">
 
-![](https://upload.wikimedia.org/wikipedia/commons/1/1f/As08-16-2593.jpg)
+
