@@ -10,4 +10,6 @@ Este es un curso introductorio a procesamiento de datos geograficos
 2. Aprender el lenguaje de programacion [Markdown](https://markdown.es/)
 3. Aprender el sistema de control [Git](https://git-scm.com/).
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/As08-16-2593.jpg" width="300">
+
 ![](https://upload.wikimedia.org/wikipedia/commons/1/1f/As08-16-2593.jpg)
